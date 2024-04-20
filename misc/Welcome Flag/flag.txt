@@ -1,0 +1,3 @@
+The description said 'YCF'
+
+flag: NexusCTF{YCF}

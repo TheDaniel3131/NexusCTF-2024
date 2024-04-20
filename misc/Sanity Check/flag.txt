@@ -1,0 +1,3 @@
+flag: NexusCTF{h1dd3n_n3xu5_fla9}
+
+it is at discord channel announcement tab
