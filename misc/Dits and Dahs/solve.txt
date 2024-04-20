@@ -1,0 +1,3 @@
+It is in morse code. So I just need to use morse code audio decoder to do so.
+
+flag: NexusCTF{THEMORSECODEALWAYSROCKS}
