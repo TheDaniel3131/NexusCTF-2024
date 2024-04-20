@@ -1,0 +1,21 @@
+flag: NexusCTF{3as7_r0b0t_id10t_fla9}
+
+
+
+Explanation:
+
+This challenge indicatees robots.txt
+
+http://chall.ycfteam.in:1337/
+
+
+http://chall.ycfteam.in:1337/robots.txt
+
+
+you will see this
+
+User-agent: *
+Disallow: /flagdownthere
+
+
+and you will get the flag by scrolling to the bottom
