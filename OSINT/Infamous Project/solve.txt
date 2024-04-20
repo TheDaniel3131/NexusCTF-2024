@@ -1,0 +1,3 @@
+It took me a while to find out an official document of the name of the legislative counsel in the infamous project called Project MK-Ultra.
+
+flag: NexusCTF{George_Cary}
