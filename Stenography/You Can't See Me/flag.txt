@@ -1,0 +1,11 @@
+flag: NexusCTF{H0w_Th3_H3ck_c4n_Ev3ry0ne_SEE_mee!!!}
+
+
+how?
+
+simply just at my WSL command line and type the following steghide command
+
+
+daniel@daniel3131:/mnt/d/Project_2024/NexusCTF-2024/Stenography/You Can't See Me$ 
+
+steghide extract -sf chall.jpg -p ohmygodyoucanactuallyseeme
